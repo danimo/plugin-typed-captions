@@ -30,3 +30,5 @@ Or additionally, you can add this same configuration in the `.properties` file f
 ## Development mode
 
 As for development mode (running this plugin from source), please, refer back to https://github.com/bigbluebutton/bigbluebutton-html-plugin-sdk section `Running the Plugin from Source`
+
+## Test
